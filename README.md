@@ -9,7 +9,7 @@
 - Gosto de criar novos projetos para testar meus conhecimentos.
 
 <div align="center">
-  <a href="https:https://github.com/CarlosPimSilveira?tab=repositories">
+  <a href="https://github.com/CarlosPimSilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPimSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPimSilveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
