@@ -31,5 +31,4 @@
     <!-- <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>-->
 </div>
 
-
- 
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer, tanto na programação quanto em meus projetos pessoais.
