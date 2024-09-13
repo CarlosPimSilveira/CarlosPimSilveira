@@ -4,11 +4,11 @@
 
 ##
 
-- Atualmente trabalho com programação Delphi.
-- Busco hoje estudar e colocar em pratica aprendizado de programação web.
-- Sempre busco ser melhor que o dia anterior.
-- Gosto de ler conteúdos sobre programação.
-- Gosto de criar novos projetos para testar meus conhecimentos.
+- Atuo como programador Delphi e estou constantemente aprimorando minhas habilidades.
+- Atualmente, foco em aprender e aplicar conhecimentos de programação web.
+- Meu objetivo é evoluir continuamente, sempre buscando ser melhor a cada dia.
+- Sou entusiasta da leitura de conteúdos sobre tecnologia e programação.
+- Gosto de desenvolver novos projetos como forma de testar e expandir meus conhecimentos.
 
 <div align="center">
   <a href="https://github.com/CarlosPimSilveira">
@@ -19,6 +19,12 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/carlos-pim-3b0a30165/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:carlospimsilveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  </div>
+  <a href="https://www.linkedin.com/in/carlos-pim-3b0a30165/" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
+  </a>
+    <a href="mailto:carlospimsilveira@gmail.com" target="_blank">
+      <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
+    </a>  
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
  
