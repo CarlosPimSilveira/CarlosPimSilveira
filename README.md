@@ -2,8 +2,8 @@
 ### Meu nome é Carlos Pim.
 ### Sou estudante de programação web e um grande sonhador.
 
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pimcarlos/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-pim-3b0a30165/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pimcarlos/ target="_blank")
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-pim-3b0a30165/ target="_blank")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlospimsilveira@gmail.com)
 
 ##
@@ -15,9 +15,10 @@
 - Gosto de desenvolver novos projetos como forma de testar e expandir meus conhecimentos.
 
 <div align="center">
-  <a href="https://github.com/CarlosPimSilveira">
+  <a href="https://github.com/CarlosPimSilveira" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPimSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPimSilveira&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ## Tecnologias que estudo!
